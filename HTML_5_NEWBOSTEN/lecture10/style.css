@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font: bold 20px fantasy;
+}
+
+header, section, footer, aside, nav, article,hgroup, h1{
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+
+
+.footer{
+    text-align: center;
+}

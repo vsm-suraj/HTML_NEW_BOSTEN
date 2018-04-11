@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    min-height: 700px;
+    background: radial-gradient(green,blue,red)
+
+}
+.container1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 300px;
+    border: 2px solid springgreen;
+    background: linear-gradient(red,green); 
+    border-radius: 10px;
+    text-align: center;
+
+    box-shadow: rgba(60, 60, 60,0.7) 5px 5px;
+}
+.container2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 300px;
+    border: 2px solid springgreen;
+    background: linear-gradient(to right,red,green); 
+    border-radius: 10px;
+    text-align: center;
+
+    box-shadow: rgba(60, 60, 60,0.7) 5px 5px;
+}
+.container3{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 300px;
+    border: 2px solid springgreen;
+    background: linear-gradient(to bottom right,red,green); 
+    border-radius: 10px;
+    text-align: center;
+
+    box-shadow: rgba(60, 60, 60,0.7) 5px 5px;
+}
+.container4{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 300px;
+    border: 2px solid springgreen;
+    background: linear-gradient(yellow,red,green); 
+    border-radius: 10px;
+    text-align: center;
+
+    box-shadow: rgba(60, 60, 60,0.7) 5px 5px;
+}
+
+h1{
+    text-shadow: rgba(60, 60, 60,0.7) 2px 2px;
+}

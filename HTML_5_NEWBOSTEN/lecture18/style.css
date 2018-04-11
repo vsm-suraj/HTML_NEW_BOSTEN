@@ -1,0 +1,40 @@
+.container{
+    border: 2px solid springgreen;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    width: 800px;
+    text-align: center;
+}
+
+.kid1{
+    border: 2px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    background: bisque;
+    width: 60px;
+}
+
+.kid2{
+    border: 2px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    background: blue;
+    width: 60px;
+    -webkit-box-flex: 1;
+}
+
+.kid3{
+    border: 2px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    background: blueviolet;
+    width: 60px;
+}
+
+.kid4{
+    border: 2px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    background: brown;
+    width: 60px;
+}

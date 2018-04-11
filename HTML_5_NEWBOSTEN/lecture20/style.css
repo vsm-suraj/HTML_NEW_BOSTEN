@@ -1,0 +1,13 @@
+body{
+    -webkit-box-align: center;
+}
+.container{
+    display: block;
+    width: 300px;
+    margin: 20px;
+    background: chartreuse;
+    border: 2px solid violet;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black inset;
+}
